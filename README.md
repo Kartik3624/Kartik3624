@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Kartik3624
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on new projects
+- 📫 you can reach me through my personal email : kartikpundir1@iclud.com
+<!---
+Kartik3624/Kartik3624 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
